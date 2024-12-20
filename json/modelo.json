@@ -5,6 +5,7 @@
     "geral": {
         "descricao": "O Redmi Note 12S é um smartphone da Xiaomi com o sistema Android, pesando 176g, tem a tela de 6,43\".  Possui uma memória interna de 64 a 256 GB com possibilidade de expansão de até 1 TB. Possui uma excelente câmera tanto a principal como a frontal com filmagens em Full HD.",
         "marca": "Xiaomi",
+        "modelo": "Redmi",
         "disponivel": "2023/2",
         "dimensoes": "- 159.87 x 73.87 x 8.09 mm<br>- 6,3\" x 2,91\" x 0,32\"",
         "peso": "176g",
