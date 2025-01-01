@@ -96,7 +96,7 @@
         "radio": "Não",
         "audio": "- Sim<br>- Plug 3.5mm P2",
         "tv": "Não",
-        "dlna": "Não"
+        "dlna": "Sim"
     },
     "sensor": {
         "acelerometro": "Sim",
