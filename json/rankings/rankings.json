@@ -3,5 +3,15 @@
     "id": "Smartphones",
     "nome": "Smartphones (Android/IOS)",
     "imagem": "https://img.icons8.com/clouds/100/leaderboard.png"
+  },
+  {
+    "id": "Android",
+    "nome": "Android",
+    "imagem": "https://img.icons8.com/clouds/200/unicodepad.png"
+  },
+  {
+    "id": "IOS",
+    "nome": "IOS",
+    "imagem": "https://img.icons8.com/clouds/100/iphone-x.png"
   }
 ]
