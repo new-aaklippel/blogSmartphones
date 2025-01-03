@@ -15,13 +15,13 @@
     "imagem": "https://img.icons8.com/clouds/100/iphone-x.png"
   },
   {
+    "id": "Redmi",
+    "nome": "Redmi",
+    "imagem": "https://raw.githubusercontent.com/new-aaklippel/blogSmartphones/refs/heads/main/images/modelos/redmi.png"
+  },
+  {
     "id": "Xiaomi",
     "nome": "Xiaomi",
     "imagem": "https://raw.githubusercontent.com/new-aaklippel/blogSmartphones/refs/heads/main/images/marcas/xiaomi.png"
-  },
-  {
-    "id": "Redmi",
-    "nome": "Redmi",
-    "imagem": "https://raw.githubusercontent.com/new-aaklippel/blogSmartphones/refs/heads/main/images/xiaomi/redmi_note_12s.webp"
   }
 ]
