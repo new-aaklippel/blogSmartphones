@@ -1,7 +1,8 @@
 [
-  {
-    "id": "redmi_note_12s",
-    "nome": "Ficha Técnica: Xiaomi Redmi Note 12S",
-    "imagem": "https://raw.githubusercontent.com/new-aaklippel/blogSmartphones/refs/heads/main/images/xiaomi/redmi_note_12s.webp"
-  }
+    {
+        "type": "ficha",
+        "id": "redmi_note_12s",
+        "nome": "Ficha Técnica: Xiaomi Redmi Note 12S",
+        "imagem": "https://raw.githubusercontent.com/new-aaklippel/blogSmartphones/refs/heads/main/images/xiaomi/redmi_note_12s.webp"
+    }
 ]
