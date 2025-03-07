@@ -95,7 +95,7 @@
         "nfc": "Sim (Depende da região)",
         "gps": "- Sim<br>- A-GPS, GeoTagging, GLONASS, GALILEO, BeiDou, BDS",
         "radio": "Não",
-        "audio": "- Sim<br>- Plug 3.5mm P2",
+        "audio": "- Sim<br>- Plug 3.5mm, P2",
         "tv": "Não",
         "dlna": "Sim"
     },
