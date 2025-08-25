@@ -1,12 +1,10 @@
 [
-  // smartphones
   {
     "nome": "Smartphone Xiaomi Redmi Note 12S 256GB",
     "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lnsn3e1iraoc08@resize_w450_nl.webp",
     "link": "https://s.shopee.com.br/8AIe76I1Kr",
     "preco": "+- R$ 1.977,00"
   },
-  // pelicula
   {
     "nome": "Película de cerâmica flexível para Xiaomi Redmi Note 7, 8, 8T, 9, 9S, 10, 11, 11T, 11S, 11E, 12, 12S, 13 e 14",
     "imagem": "https://down-br.img.susercontent.com/file/a98390f52d5db894fdbe278d8960faad@resize_w900_nl.webp",
@@ -19,7 +17,6 @@
     "link": "https://s.shopee.com.br/7KihkJNwyU",
     "preco": "+- R$ 12,90"
   },
-  // fones
   {
     "nome": "Fone de ouvido Bluetooth para Xiaomi, Android e IOS",
     "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rd56-lufxa5hr0gll61@resize_w900_nl.webp",
@@ -32,7 +29,6 @@
     "link": "https://s.shopee.com.br/1LRSnaF6qf",
     "preco": "+- R$ 19,00 a 21,99"
   },
-  // capas
   {
     "nome": "Capa anti impacto para Xiaomi Redmi Note 12S de Silicone com borda transparente",
     "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7qukw-lk5zx72safja36@resize_w450_nl.webp",
@@ -57,7 +53,6 @@
     "link": "https://s.shopee.com.br/5ptUCOiHbr",
     "preco": "+- R$ 15,89 a 15,93"
   },
-  // suporte
   {
     "nome": "Kit com 5 suportes para smartphones e tablets. Pop Socket de dedo",
     "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rbm9-llrwkiz5r4uy3b@resize_w900_nl.webp",
