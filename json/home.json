@@ -1,10 +1,5 @@
 [
     {
-        "type": "loja",
-        "id": "redmi_note_12s",
-        "nome": "Loja: Smartphones Xiaomi Redmi Note 12S e acessórios",
-        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lqnoxnajwa9v36@resize_w900_nl.webp"
-    },{
         "type": "ficha",
         "id": "apple_iphone_13",
         "nome": "Ficha Técnica: Apple iPhone 13",

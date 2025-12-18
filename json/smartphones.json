@@ -1,5 +1,9 @@
 [
   {
+    "id": "apple_iphone_13",
+    "nome": "Apple iPhone 13",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/IPhone_13_vector.svg/330px-IPhone_13_vector.svg.png"
+  },{
     "id": "redmi_note_12s",
     "nome": "Xiaomi Redmi Note 12S",
     "imagem": "https://raw.githubusercontent.com/new-aaklippel/blogSmartphones/refs/heads/main/images/xiaomi/redmi_note_12s.webp"
