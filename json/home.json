@@ -1,14 +1,18 @@
 [
     {
-        "type": "ficha",
-        "id": "redmi_note_12s",
-        "nome": "Ficha Técnica: Xiaomi Redmi Note 12S",
-        "imagem": "https://raw.githubusercontent.com/new-aaklippel/blogSmartphones/refs/heads/main/images/xiaomi/redmi_note_12s.webp"
-    },
-    {
         "type": "loja",
         "id": "redmi_note_12s",
         "nome": "Loja: Smartphones Xiaomi Redmi Note 12S e acessórios",
         "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lqnoxnajwa9v36@resize_w900_nl.webp"
+    },{
+        "type": "ficha",
+        "id": "apple_iphone_13",
+        "nome": "Ficha Técnica: Apple iPhone 13",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/IPhone_13_vector.svg/330px-IPhone_13_vector.svg.png"
+    },{
+        "type": "ficha",
+        "id": "redmi_note_12s",
+        "nome": "Ficha Técnica: Xiaomi Redmi Note 12S",
+        "imagem": "https://raw.githubusercontent.com/new-aaklippel/blogSmartphones/refs/heads/main/images/xiaomi/redmi_note_12s.webp"
     }
 ]
