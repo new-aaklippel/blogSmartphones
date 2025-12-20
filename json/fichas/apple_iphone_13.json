@@ -1,0 +1,147 @@
+{
+    "id": "apple_iphone_13",
+    "nome": "Xiaomi Redmi Note 12S",
+    "imagem": "https://raw.githubusercontent.com/new-aaklippel/blogSmartphones/refs/heads/main/xiaomi/redmi_note_12s.webp",
+    "yt": "https://aaklippel-64464.web.app/site/yt/yt.html",
+    "bt": "Android",
+    "type": "smartphones",
+    "geral": {
+        "descricao": "O Redmi Note 12S é um smartphone da Xiaomi com o sistema Android, pesando 176g, tem a tela de 6,43\".  Possui uma memória interna de 64 a 256 GB com possibilidade de expansão de até 1 TB. Possui uma excelente câmera tanto a principal como a frontal com filmagens em Full HD.",
+        "marca": "Xiaomi",
+        "modelo": "Redmi",
+        "disponivel": "2023/2",
+        "dimensoes": "- 159.87 x 73.87 x 8.09 mm<br>- 6,3\" x 2,91\" x 0,32\"",
+        "peso": "176g",
+        "regiao": "Global, Internacional",
+        "material": "Corpo de plástico, tela de vidro",
+        "agua": "Não",
+        "cores": "- 3 cores<Br>- Preto, verde e azul."
+    },
+    "notas": {
+        "hardware": "7.6",
+        "tela": "8.5",
+        "camera": "8.1",
+        "desempenho": "4.5"
+    },
+    "so": {
+        "sistema": "Android 13",
+        "interface": "MIUI 14",
+        "atufirmware": "RETIRAR"
+    },
+    "rede": {
+        "simcard": "Nano",
+        "dualsim": "Dual stand-by",
+        "gsm": "Quad Band (850/900/1800/1900)",
+        "hspa_mais": "Sim",
+        "lte": "Sim",
+        "maxdown": "390 Mbps",
+        "maxupload": "150 Mbps",
+        "velocidade": "HSPA, LTE-A",
+        "redes": "2G (GSM), 3G (HSPA), 4G (LTE)"
+    },
+    "tecnico": {
+        "processador_cpu": "- Octa-core<br>- 2x 2.05 GHz Cortex-A76 (Dual-core)<br>- 6x 2.0 GHz Cortex-A55 (Hexa-core)",
+        "chipset": "Helio G96 MediaTek (12nm)",
+        "bit64": "Sim",
+        "gpu": "Mali-G57 MC2 (850MHz)",
+        "ram": "6 - 8 GB",
+        "memoryinterna": "- 64 GB (48 GB disponível)<br>- 128 GB (101 GB disponível)<br>- 256 GB (228 GB disponível)",
+        "memoryexp": "MicroSDXC, MicroSD atè 1 TB",
+        "memorytype": "LPDDR4X"
+    },
+    "tela": {
+        "polegadas": "- 6,43\"<br>- 99,8 cm²<br>- ~79.0% aproveitamento frontal",
+        "resolucao": "1080 x 2400 pixel",
+        "proporcao": "20:9",
+        "densidade": "409 ppi",
+        "type": "AMOLED",
+        "fps": "90 Hz",
+        "cores": "16 milhões",
+        "protecao": "Gorilla Glass 5",
+        "touchscreen": "Capacitiva Multitouch 10 pontos, multitoque",
+        "risco": "Não",
+        "brilho": "1000 cd/m²"
+    },
+    "camera": {
+        "megapixel": "108 Mp + 8 Mp + 2 Mp (Tripla)",
+        "resolucao": "- Principal: 12000 x 9000 pixels<br>- Frontal: 4608x3456 pixels",
+        "proporcao": "- Principal: 4:3<br>- Frontal: 4:3",
+        "sensor": "- Principal: 1/1.52\" + 1/4\"<br>- Frontal: 1/3.1\"",
+        "aperture": "- Principal: F 1.9 + F 2.2 + F 2.4<br>- Frontal: F 2.4",
+        "estabilidade": "- Sim<br>- EIS (Estabilização digital)",
+        "angle": "118º",
+        "autofoco": "- Sim<br>- PDAF (Foco automático de detecção de fase)",
+        "focotoque": "Sim",
+        "flash": "- Principal: Sim, LED<br>- Frontal: Não",
+        "hdr": "- Sim<br>- HDR foto em ambas as câmeras",
+        "local": "Sim",
+        "face": "- Sim<br>- Detecção facial, Detecção de sorriso",
+        "frontal": "- Sim<br>- 16 Mp",
+        "zoom": "- Sim<br>- Zoom digital",
+        "bsi": "Sim"
+    },
+    "video": {
+        "gravacao": "- Principal: Full HD<br>- Frontal: Full HD",
+        "autofoco": "Sim",
+        "fps": "- Principal: 30 fps<br>- Frontal: 30 fps",
+        "opc_cam_fron": "Face Detection",
+        "resolucao": "- Principal: 1920x1080 pixels<br>- Frontal: 1920x1080 pixels",
+        "proporcao": "- Principal: 16:9<br>- Frontal: 16:9",
+        "chamada": "Sim"
+    },
+    "connect": {
+        "wifi": "- Sim (Wi-Fi 5)<br>- 802.11 a/b/g/n/ac, Dual-band<br>- WiFi Direct<br>- Hotspot",
+        "bluetooth": "- Sim<br>- 5.2 com A2DP/LE",
+        "irda": "Sim",
+        "usb": "- Sim<br>- Type-C 2.0 (Conector reversível)<br>- Carregamento USB<br>- Dispositivo de armazenamento USB",
+        "nfc": "Sim (Depende da região)",
+        "gps": "- Sim<br>- A-GPS, GeoTagging, GLONASS, GALILEO, BeiDou, BDS",
+        "radio": "Não",
+        "audio": "- Sim<br>- Plug 3.5mm P2",
+        "tv": "Não",
+        "dlna": "Não"
+    },
+    "sensor": {
+        "acelerometro": "Sim",
+        "proximidade": "Sim",
+        "giroscopio": "Sim",
+        "bussola": "Sim",
+        "digital": "Sim, na lateral",
+        "facial": "Sim",
+        "luminosidade": "Sim"
+    },
+    "bateria": {
+        "tipo": "LiPo, polímeros de lítio (Fixa)",
+        "ampere": "5000 mAh",
+        "carregador": "33W, Carga rápida por cabo",
+        "carregador_semfio": "Não",
+        "digital": "Sim, na lateral",
+        "facial": "Sim",
+        "luminosidade": "Sim",
+        "conversacao": "24h RETIRAR",
+        "standby": "24h RETIRAR"
+    },
+    "som": {
+        "vivavoz": "Sim (Estéreo)",
+        "altofalante": "Som estéreo com alto-falantes duplos",
+        "redutorruido": "- Sim<br>- 2 microfones ou mais",
+        "formatvideo": "MP4, H.265, H.264, H.263, XviD, MKV",
+        "formataudio": "MP3, WAV, WMA, eAAC+, FLAC"
+    },
+    "outs": {
+        "vibracao": "Sim",
+        "phone": "- Sim<br>- Discagem de voz<br>- Gravador de voz<br>- Comando de voz",
+        "message": "- Sim<br>- SMS (T9)<br>- MMS<br>- E-mail<br>- Push mail",
+        "music": "- Sim<br>- Polifônicos e personalizados",
+        "web": "- Sim<br>- HTML, XHTML, HTML5",
+        "antena": "- Sim<br>- Antena interna",
+        "teclado": "Não"
+    },
+    "radiacao": {
+        "sar_eua": "RETIRAR",
+        "sar_br_ue": "RETIRAR"
+    },
+    "ref": {
+        "links": "<a href=\"https://www.tudocelular.com/Redmi/fichas-tecnicas/n8738/Redmi-Note-12S.html\" class=\"links\">tudocelular.com</a>, <a href=\"https://exame.com/tecnologia/examelab/xiaomi-redmi-note-12s-vale-a-pena-na-black-friday-veja-detalhes-do-celular-e-ficha-tecnica/\" class=\"links\">exame.com</a>, <a href=\"https://canaltech.com.br/produto/xiaomi/redmi-note-12s/\" class=\"links\">canaltech.com.br</a>, <a href=\"https://www.maiscelular.com.br/fichas-tecnicas/xiaomi/redmi-note-12s/\" class=\"links\">maiscelular.com.br</a>, <a href=\"https://www.hardware.com.br/ficha-tecnica/smartphone/redmi-note-12s/\" class=\"links\">hardware.com.br</a>, <a href=\"https://pt.kalvo.com/xiaomi-redmi-note-12s-55470.html#faq\" class=\"links\">pt.kalvo.com</a>"
+    }
+}
