@@ -1,5 +1,10 @@
 [
   {
+    "id": "Apple",
+    "nome": "iPhone",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/IPhone_13_vector.svg/330px-IPhone_13_vector.svg.png"
+  },
+  {
     "id": "Redmi",
     "nome": "Redmi",
     "imagem": "https://raw.githubusercontent.com/new-aaklippel/blogSmartphones/refs/heads/main/images/modelos/redmi.png"
