@@ -1,8 +1,14 @@
 [
-  {
-    "id": "Xiaomi",
-    "pt": "0",
-    "nome": "Xiaomi",
-    "imagem": "https://raw.githubusercontent.com/new-aaklippel/blogSmartphones/refs/heads/main/images/marcas/xiaomi.png"
-  }
+    {
+        "id": "Xiaomi",
+        "pt": "0",
+        "nome": "Xiaomi",
+        "imagem": "https://raw.githubusercontent.com/new-aaklippel/blogSmartphones/refs/heads/main/images/marcas/xiaomi.png"
+    },
+    {
+        "id": "Apple",
+        "pt": "0",
+        "nome": "Apple",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
+    }
 ]
