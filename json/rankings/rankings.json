@@ -23,5 +23,10 @@
     "id": "Xiaomi",
     "nome": "Xiaomi",
     "imagem": "https://raw.githubusercontent.com/new-aaklippel/blogSmartphones/refs/heads/main/images/marcas/xiaomi.png"
+  },
+  {
+    "id": "Apple",
+    "nome": "Apple",
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg"
   }
 ]
